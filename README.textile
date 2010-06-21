@@ -6,6 +6,14 @@ h3. Overview
 
 This tool allows to you to easily setup, compile and test your website.
 
+h2. Instructions
+
+# Download the tar/zip ball from the "downloads page":http://github.com/Matan/HandBones-ANT-Tool/downloads.
+# Extract it into a "subdirectory":http://github.com/Matan/HandBones-Samples/tree/master/builder/ of you HandBones project.
+# Edit the "build.properties:"http://github.com/Matan/HandBones-ANT-Tool/blob/master/build.properties file to match your needs.
+# Run the "scaffhold-site":http://github.com/Matan/HandBones-ANT-Tool/blob/master/build.xml#L41 target of the "build.xml":http://github.com/Matan/HandBones-ANT-Tool/blob/master/build.xml to setup your initial state of you website.
+# Use the other targets as needed while developing you website.
+
 h2. License
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
