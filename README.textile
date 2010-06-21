@@ -10,7 +10,7 @@ h2. Instructions
 
 # Download the tar/zip ball from the "downloads page":http://github.com/Matan/HandBones-ANT-Tool/downloads.
 # Extract it into a "subdirectory":http://github.com/Matan/HandBones-Samples/tree/master/builder/ of you HandBones project.
-# Edit the "build.properties:"http://github.com/Matan/HandBones-ANT-Tool/blob/master/build.properties file to match your needs.
+# Edit the "build.properties":http://github.com/Matan/HandBones-ANT-Tool/blob/master/build.properties file to match your needs.
 # Run the "scaffhold-site":http://github.com/Matan/HandBones-ANT-Tool/blob/master/build.xml#L41 target of the "build.xml":http://github.com/Matan/HandBones-ANT-Tool/blob/master/build.xml to setup your initial state of you website.
 # Use the other targets as needed while developing you website.
 
